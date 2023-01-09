@@ -9,5 +9,9 @@ database='bancoestudo',
 
 cursor = conexao.cursor()
 
+# CRUD
+
+
+
 cursor.close()
 conexao.close()
