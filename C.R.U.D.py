@@ -5,6 +5,6 @@ connexao = mysql.connector(
     user='root',
 password='Mydate2023,,',
 database='bancoestudo', 
-    
 )
 
+cursor = conexao.cursor()
