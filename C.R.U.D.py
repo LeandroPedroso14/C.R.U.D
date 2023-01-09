@@ -12,7 +12,8 @@ cursor = conexao.cursor()
 # CRUD
 comando = ''
 cursor.execute(comando)
-conexao.commit() # Para editar banco de dados
+conexao.commit() # Para editar banco de dados.
+resultado = cursor.fetchall() # Ler o banco de dados.
 
 
 
