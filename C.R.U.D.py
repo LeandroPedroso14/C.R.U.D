@@ -10,3 +10,4 @@ database='bancoestudo',
 cursor = conexao.cursor()
 
 cursor.close()
+conexao.close()
