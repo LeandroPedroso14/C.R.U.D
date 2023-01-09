@@ -10,6 +10,7 @@ database='bancoestudo',
 cursor = conexao.cursor()
 
 # CRUD
+comando = ''
 
 
 
