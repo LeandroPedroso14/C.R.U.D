@@ -11,6 +11,7 @@ cursor = conexao.cursor()
 
 # CRUD
 comando = ''
+cursor.execute(comando)
 
 
 
