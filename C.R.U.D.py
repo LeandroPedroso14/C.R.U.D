@@ -4,7 +4,7 @@ connexao = mysql.connector(
     host='localhost',
     user='root',
 password='Mydate2023,,',
-database=, 
+database='bancoestudo', 
     
 )
 
