@@ -14,9 +14,9 @@ nome_produto = "leite"
 valor = 4
 comando = f'INSERT INTO vendas (nome_produto, valor) VALUES ("{nome_produto}", {valor})'
 cursor.execute(comando)
-conexao.commit() # Para editar banco de dados.
+#conexao.commit() # Para editar banco de dados.
 resultado = cursor.fetchall() # Ler o banco de dados.
-
+print(resultado)
 
 
 cursor.close()
@@ -30,7 +30,3 @@ conexao.close()
 #conexao.commit() # Para editar banco de dados.
 
 # READ
-comando = f'SELECT * FROM vendas'
-cursor.execute(comando)
-resultado = cursor.fetchall() # Ler o banco de dados.
-print(resultado)
