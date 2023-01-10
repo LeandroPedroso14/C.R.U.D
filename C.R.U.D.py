@@ -10,7 +10,7 @@ database='bancoestudo',
 cursor = conexao.cursor()
 
 # CRUD
-comando = 'INSERT INTO vendas (nome_produto, valor)'
+comando = 'INSERT INTO vendas (nome_produto, valor) VALUES (nome, valor)'
 cursor.execute(comando)
 conexao.commit() # Para editar banco de dados.
 resultado = cursor.fetchall() # Ler o banco de dados.
