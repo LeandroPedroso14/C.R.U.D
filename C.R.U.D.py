@@ -11,7 +11,7 @@ cursor = conexao.cursor()
 
 # CRUD
 
-comando = f'INSERT INTO vendas (nome_produto, valor) VALUES ("{nome_produto}", {valor})'
+comando = f'SELECT * FROM vendas'
 cursor.execute(comando)
 #conexao.commit() # Para editar banco de dados.
 resultado = cursor.fetchall() # Ler o banco de dados.
