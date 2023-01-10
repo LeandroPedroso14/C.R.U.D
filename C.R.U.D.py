@@ -21,3 +21,10 @@ resultado = cursor.fetchall() # Ler o banco de dados.
 
 cursor.close()
 conexao.close()
+
+# CREATE
+nome_produto = "leite"
+valor = 4
+comando = f'INSERT INTO vendas (nome_produto, valor) VALUES ("{nome_produto}", {valor})'
+cursor.execute(comando)
+conexao.commit() # Para editar banco de dados.
