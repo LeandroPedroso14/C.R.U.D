@@ -35,3 +35,10 @@ conexao.close()
 #print(resultado)
 
 # UPDATE
+#nome_produto = "café"
+#valor = 7
+#comando = f'UPDATE vendas SET valor = {valor} WHERE nome_produto = "{nome_produto}"'
+#cursor.execute(comando)
+#conexao.commit() # Para editar banco de dados.
+
+
