@@ -10,6 +10,7 @@ database='bancoestudo',
 cursor = conexao.cursor()
 
 # CRUD
+nome_produto = "café"
 comando = 'INSERT INTO vendas (nome_produto, valor) VALUES (nome, valor)'
 cursor.execute(comando)
 conexao.commit() # Para editar banco de dados.
