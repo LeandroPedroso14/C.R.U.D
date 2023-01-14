@@ -6,4 +6,8 @@ C.R.U.D.
 <img src= "crud_img.png" width="300" height="300" />
 </h1>
 
+<h2 align="center">
+Information about the C.R.U.D.
+</h2>
+
 A C.R.U.D. integrated with MySQL
