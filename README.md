@@ -10,11 +10,10 @@ C.R.U.D.
 Information about the C.R.U.D.
 </h2>
 
+- C ➡
+- R ➡
+- U ➡
+- D ➡
 
-
-- C 
-- R
-- U
-- D
 
 A C.R.U.D. integrated with MySQL
