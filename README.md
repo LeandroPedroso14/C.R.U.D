@@ -10,10 +10,10 @@ C.R.U.D.
 Information about the C.R.U.D.
 </h2>
 
-- C ➡
-- R ➡
-- U ➡
-- D ➡
+- C ➡ Creation in the database.
+- R ➡ Reading from the database.
+- U ➡ Database update.
+- D ➡ Deleting database data.
 
 
 A C.R.U.D. integrated with MySQL
