@@ -11,3 +11,8 @@ Information about the C.R.U.D.
 </h2>
 
 A C.R.U.D. integrated with MySQL
+
+- C 
+- R
+- U
+- D
