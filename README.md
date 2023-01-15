@@ -16,7 +16,7 @@ Information about the C.R.U.D.
 - D ➡ Deleting database data.
 
 <h2 align="center">
-MySQL database integration 
+MySQL database integration <img align="center" alt="MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
 </h2>
 
 <h3>Access my post on linkedin.</h3>
