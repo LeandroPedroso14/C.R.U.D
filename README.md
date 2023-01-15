@@ -17,5 +17,7 @@ Information about the C.R.U.D.
 
 <h3>Access my post on linkedin.</h3>
 
+[![Meu linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/update/urn:li:activity:7018970018260406272/)
+
 
 A C.R.U.D. integrated with MySQL
