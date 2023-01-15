@@ -21,8 +21,8 @@ MySQL database integration <img align="center" alt="MySQL" height="50" width="50
 
 - No vs code import with mysql.connector.
 - Creating connection function with host, user, password, database.
-- In mysql the "bancoestudo" was created for the project with a table about sales.
-
+- In mysql the "bancoestudo" was created for the project with a table about sales.<br>
+- Access the image file for more details. <a href="![C R U D   VS code   e   MySQL](https://user-images.githubusercontent.com/106255930/212546288-52843d89-bc87-4ea2-     a184-6d3b8719c124.png)" target="_blank"> 📂</a>
 
 
 
