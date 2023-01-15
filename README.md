@@ -15,5 +15,7 @@ Information about the C.R.U.D.
 - U ➡ Database update.
 - D ➡ Deleting database data.
 
+<h3>Access my post on linkedin.</h3>
+
 
 A C.R.U.D. integrated with MySQL
