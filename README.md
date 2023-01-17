@@ -33,3 +33,14 @@ MySQL database integration <img align="center" alt="MySQL" height="50" width="50
 	 API project updated 🔃 and completed ✅
 </h3>
 
+<br>
+<br>
+
+<h2 align="center">
+ 🛠 Technologies
+</h2>
+
+Tools used for the project:
+
+- [Python](https://www.python.org/)
+
