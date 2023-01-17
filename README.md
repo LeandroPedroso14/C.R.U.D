@@ -25,13 +25,11 @@ MySQL database integration <img align="center" alt="MySQL" height="50" width="50
 - Access 👇 the image file for more details. 
 - [Folder.📂](https://github.com/LeandroPedroso14/C.R.U.D./blob/main/VS_code_MySQL.png)
 
-
-
-
-
 <h3>Access my post on linkedin.</h3>
 
 [![Meu linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/update/urn:li:activity:7018970018260406272/)
 
-
+<h3 align="center"> 
+	 API project updated 🔃 and completed.✅
+</h3>
 
