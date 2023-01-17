@@ -44,4 +44,5 @@ Tools used for the project:
 
 - [Python](https://www.python.org/)
 - [VS CODE](https://code.visualstudio.com/)
+- [MySQL](https://www.mysql.com/)
 
